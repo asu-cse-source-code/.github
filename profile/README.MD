@@ -64,7 +64,7 @@ Most of this code is from the classes required to complete my Bachelors degree i
 [3.3]: https://github.com/asu-cse-source-code/cse-340 "340"
 [3.4]: https://github.com/asu-cse-source-code/cse-330 "330"
 [3.5]: https://github.com/asu-cse-source-code/cse-301 "301"
-[3.5]: https://github.com/asu-cse-source-code/cse-360 "360"
+[3.6]: https://github.com/asu-cse-source-code/cse-360 "360"
 
 <!-- 200 Lvl Repo links -->
 
