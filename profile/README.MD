@@ -22,6 +22,7 @@ Most of this code is from the classes required to complete my Bachelors degree i
 - [Principles of Programming Languages][3.3]
 - [Operating Systems][3.4]
 - [Computing Ethics][3.5]
+- [Software Development][3.6]
 
 ## 200 Level CS Courses
 
@@ -63,6 +64,7 @@ Most of this code is from the classes required to complete my Bachelors degree i
 [3.3]: https://github.com/asu-cse-source-code/cse-340 "340"
 [3.4]: https://github.com/asu-cse-source-code/cse-330 "330"
 [3.5]: https://github.com/asu-cse-source-code/cse-301 "301"
+[3.5]: https://github.com/asu-cse-source-code/cse-360 "360"
 
 <!-- 200 Lvl Repo links -->
 
